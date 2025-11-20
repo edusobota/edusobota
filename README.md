@@ -23,8 +23,8 @@ Atualmente, estou direcionando meus estudos para o desenvolvimento **Back-end**,
 ### Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusobota&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="170">
-  <img src="https://github-readme-stats.vercel.app/api?username=edusobota&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="410">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusobota&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=edusobota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="410">
 </p>
 
 ---
